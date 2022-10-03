@@ -1056,6 +1056,11 @@ Sort
 
 .. automethod:: Model.sorted
 
+Grouping
+''''''''
+
+.. automethod:: Model._group_on
+
 .. _reference/orm/inheritance:
 
 Inheritance and extension
